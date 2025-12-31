@@ -48,11 +48,19 @@ KairoCoin is designed around the following principles:
 
 ### 3.2 Genesis Allocation
 
-- Founder allocation: 23% (230,000 KAIRO)
+- Founder allocation: 23% (230,000 KAIRO)  
+  Vesting Schedule:  
+    - Month 0: 10%  
+    - Month 6: 20%  
+    - Month 12: 20%  
+    - Month 18: 20%  
+    - Month 24: 30%  
+
 - Ecosystem, validators, and community: 77% (770,000 KAIRO)
 
 Founder allocation is transparently defined at genesis and subject to vesting
 mechanisms designed to align long-term incentives with network health.
+
 
 ---
 
